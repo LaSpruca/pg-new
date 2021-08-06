@@ -1,4 +1,4 @@
-module main
+module github.com/laspruca/pg-new
 
 go 1.16
 
